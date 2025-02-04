@@ -1,0 +1,111 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(102, 102, 102);
+    padding: 10px 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+h1 img {
+    width: 150px;
+    height: 25px;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-item {
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.nav-item a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.nav-item a:hover {
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18.1px;
+    opacity: 0.9;
+}
+
+/* Content */
+main {
+    margin: 20px;
+}
+
+.text {
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+.speech {
+    text-align: center;
+    font-size: 20px;
+}
+
+.speech b {
+    font-size: 22px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #575757;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.two {
+    background-color: lightblue;
+}
+
+/* Footer */
+footer {
+    color: black;
+    padding: 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}
