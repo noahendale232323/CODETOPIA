@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://codetopia.netlify.app/books</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/tgcodes</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/services</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/documents/learn-python-fast.pdf</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/documents/introduction-to-sql.pdf</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/documents/understand-java.pdf</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://codetopia.netlify.app/documents/css.pdf</loc>
+  <lastmod>2025-02-04T22:04:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
