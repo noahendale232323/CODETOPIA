@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Coding with [Your Name]</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Welcome to [Your Name]'s Udacity Learning Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#python">Python</a></li>
+                <li><a href="#web">Web Development</a></li>
+                <li><a href="#ai">AI & Machine Learning</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="python">
+            <h2>Python for Beginners</h2>
+            <p>Learn the fundamentals of Python, one of the most popular programming languages today.</p>
+            <a href="https://www.udacity.com/course/introduction-to-python--ud1110" target="_blank" class="btn">Start Learning</a>
+        </section>
+        
+        <section id="web">
+            <h2>Web Development</h2>
+            <p>Build modern and responsive websites with HTML, CSS, and JavaScript.</p>
+            <a href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011" target="_blank" class="btn">Explore Course</a>
+        </section>
+        
+        <section id="ai">
+            <h2>AI & Machine Learning</h2>
+            <p>Dive into artificial intelligence and machine learning with expert-led courses.</p>
+            <a href="https://www.udacity.com/course/intro-to-machine-learning--ud120" target="_blank" class="btn">Learn AI</a>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
